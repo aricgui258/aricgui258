@@ -58,7 +58,7 @@ Actualmente estoy buscando nuevas oportunidades profesionales donde pueda seguir
 
 ---
 
-## 🌐 Contacto
+## > Contacto
 
 <p>
   <a href="https://www.linkedin.com/in/antonio-rico-guirado/" target="_blank">
