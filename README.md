@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## > Sobre mí
 
 Soy desarrollador Full Stack con experiencia construyendo interfaces modernas y aplicaciones web funcionales utilizando tecnologías del ecosistema JavaScript, PHP y Python.
 
@@ -18,7 +18,7 @@ Actualmente estoy buscando nuevas oportunidades profesionales donde pueda seguir
 
 ---
 
-## 🚀 Stack Principal
+## > Stack Principal
 
 ### Frontend
 
@@ -47,7 +47,7 @@ Actualmente estoy buscando nuevas oportunidades profesionales donde pueda seguir
 
 ---
 
-## 🎯 Enfoque Profesional
+## > Enfoque Profesional
 
 - Desarrollo de aplicaciones web modernas y mantenibles.
 - Código limpio y estructurado.
@@ -55,22 +55,6 @@ Actualmente estoy buscando nuevas oportunidades profesionales donde pueda seguir
 - Interfaces claras y funcionales.
 - Adaptabilidad a nuevos entornos y tecnologías.
 - Aprendizaje continuo y mejora constante.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
